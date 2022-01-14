@@ -7,6 +7,6 @@ To complete the Google Data Analytics Specialization and earn my Professionial C
 ## Other info
 - The tecnhical tools I used during this project are SQL and Tableau.
 - To view my completed project, where I walk through all the steps I took and the insights I reached, go here: [Medium Article](https://medium.com/@iainselliott/google-data-analytics-capstone-project-cyclistic-case-study-8baed2f5a286)
-- To view my SQL code for the project, click [here](
+- To view my SQL queries for the project, click [here](https://github.com/iainelli/Capstone-Project-Cyclistic-Case-Study/blob/main/pre_cleaning_exploration.sql) for the pre-cleaning exploration portion & [here](https://github.com/iainelli/Capstone-Project-Cyclistic-Case-Study/blob/main/data_cleaning_analysis.sql) for the cleaning/analysis portion.
 - To view my data visualizations, visit my Tableau Public Cyclistic Project Page here: [Tableau](https://public.tableau.com/app/profile/iain.e/viz/GoogleDataAnalyticsCapstoneProjectCyclisticData/CasualvsMemberBikeTripsin2021#1)
 - To view the raw dataset used in this case, go here: [Cyclistic Bike Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
